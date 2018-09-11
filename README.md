@@ -1,0 +1,2 @@
+# Exploring-Chattogram
+Main focuses of my app is exploring chattogram perfectly. Gaining help instantly by tourist and local people is my target point. This app can help over the whole people who wanted to search anything like tourist spots, hospitals, universities, mobile operator's customer care center, shopping malls, super shops, hotels, restaurants of Chattogram. Peoples can also find instant map location of his/her needed place. Images are also included for  all most all places.
